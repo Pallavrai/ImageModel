@@ -1,0 +1,10 @@
+Django
+django-ninja
+Pillow
+matplotlib
+torch
+requests
+swarms
+django-ninja-extra
+ninja-schema
+git+https://github.com/huggingface/transformers
